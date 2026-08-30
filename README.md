@@ -14,5 +14,5 @@ RU^^
 
 
 ## My languages and Tools
-![VSCode](assets/vscode.png)
-<img src="assets/vscode" width="50" height="50" alt="VSCode Badge">
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=ffaa00)
