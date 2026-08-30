@@ -14,4 +14,4 @@ RU^^
 
 
 ## My languages and Tools
-![VSCode](https://img.shields.io/badge/-VScode-010305?style=for-the-badge&logo=VSCode)
+![VSCode](assets/vscode.png)
