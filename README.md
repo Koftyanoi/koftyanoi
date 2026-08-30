@@ -1,6 +1,6 @@
 ![Header](https://github.com/Koftyanoi/koftyanoi/blob/main/assets/info%20(1).jpg)
 
-## I'm beginner front-end developer.
+## I am a beginner web developer.
 
 EN^^
 
@@ -11,3 +11,7 @@ RU^^
 
 👋 Привет, друг!
 Мне 16 лет, я фронт-энд-программист. Недавно я начал изучать JavaScript и уже имею некоторый опыт в адаптации сайтов. Я не просто веб-кодер, я увлечён созданием интерактивных и современных веб-опытов. И самое главное — я не «вайб-кодер», так что дыр в коде не будет :) ✨✨✨
+
+
+## My languages and Tools
+![VScode](https://img.shields.io/badge/-VScode-010305?style=for-the-badge&logo=appveyor)
