@@ -15,4 +15,4 @@ RU^^
 
 ## My languages
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=ffaa00)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=ffaa00)
