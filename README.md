@@ -1,1 +1,1 @@
-[!][Header](https://github.com/Koftyanoi/koftyanoi/blob/main/assets/MEITU_20260830_193848824.jpg)
+[![Header](https://github.com/Koftyanoi/koftyanoi/blob/main/assets/info%20(1).jpg)]
