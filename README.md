@@ -15,3 +15,4 @@ RU^^
 
 ## My languages and Tools
 ![VSCode](assets/vscode.png)
+<img src="assets/vscode" width="50" height="50" alt="VSCode Badge">
