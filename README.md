@@ -16,6 +16,6 @@ RU^^
 ## My languages
 
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=%23E34F26)  
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS&logoColor=#1572B6)  
+![CSS](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=%231572B6)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
