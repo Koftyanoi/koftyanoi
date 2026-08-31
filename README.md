@@ -20,8 +20,12 @@ RU^^
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 
-### Follow Me
+## Follow Me
 
 [![TikTok](https://img.shields.io/badge/TIKTOK-090909?style=for-the-badge&logo=TikTok&logoColor=0097D0)](https://www.tiktok.com/@koftyanoi?_r=1&_t=ZS-99Jph4GYC0q)
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=0097D0)](https://t.me/frontedbydni)
 [![VK](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=VK&logoColor=0097D0)](https://vk.ru/koftyanoimihail)
+
+### Activity
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/koftyanoi/github-readme-stats]
