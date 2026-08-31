@@ -22,4 +22,4 @@ RU^^
 
 ###Follow Me
 
-[!][TikTok](https://img.shields.io/badge/TIKTOK-090909?style=for-the-badge&logo=TikTok&logoColor=0097D0)](https://www.tiktok.com/@koftyanoi?_r=1&_t=ZS-99Jph4GYC0q)
+[![TikTok](https://img.shields.io/badge/TIKTOK-090909?style=for-the-badge&logo=TikTok&logoColor=0097D0)](https://www.tiktok.com/@koftyanoi?_r=1&_t=ZS-99Jph4GYC0q)
